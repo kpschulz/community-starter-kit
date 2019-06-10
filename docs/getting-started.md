@@ -35,7 +35,7 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+CONFIG Examples
 Here are some examples for
 1. Error message
 2. Success messages
